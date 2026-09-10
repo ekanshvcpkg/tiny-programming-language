@@ -1,5 +1,13 @@
 # Tiny Programming Language
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8fbabf44-5695-4b1b-89ad-ddc086a137de" />
+
+
+
+
+
+
 I'm building a small programming language and interpreter from scratch.
 
 The idea is simple:
